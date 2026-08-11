@@ -1,0 +1,251 @@
+policy_id,policy_type,state,annual_premium,tenure_months,claim_count_12m,service_requests_90d,payment_status,contact_channel,renewal_flag,retention_risk
+P10001,Auto,NC,1587.63,11,0,2,Current,Online,1,Standard
+P10002,Home,CO,1350.52,83,0,7,Current,Phone,0,Higher Risk
+P10003,Auto,NC,1085.73,40,0,0,Current,Email,0,Higher Risk
+P10004,Life,AZ,1446.0,58,0,3,Current,Agent,0,Higher Risk
+P10005,Auto,TX,1648.51,96,0,5,Current,Agent,1,Higher Risk
+P10006,Auto,FL,1192.02,29,0,3,Pending Review,Email,0,Higher Risk
+P10007,Auto,NC,764.71,82,0,4,Current,Online,0,Higher Risk
+P10008,Home,NC,1861.75,5,2,6,Past Due,Agent,1,Higher Risk
+P10009,Auto,FL,1525.94,81,0,6,Current,Agent,1,Higher Risk
+P10010,Life,TX,759.77,19,1,1,Current,Email,1,Standard
+P10011,Renters,NC,1577.2,39,1,1,Past Due,Agent,1,Higher Risk
+P10012,Auto,CO,2725.89,66,0,5,Current,Phone,1,Higher Risk
+P10013,Auto,TX,1836.36,106,1,5,Current,Phone,1,Higher Risk
+P10014,Home,TX,1817.0,27,1,0,Current,Online,1,Standard
+P10015,Home,TX,2687.4,69,2,0,Current,Agent,1,Higher Risk
+P10016,Auto,TX,1175.23,100,0,2,Current,Online,1,Standard
+P10017,Auto,TX,2797.4,64,0,2,Current,Phone,0,Higher Risk
+P10018,Renters,CO,1632.12,44,0,0,Past Due,Agent,1,Higher Risk
+P10019,Auto,FL,877.85,2,0,6,Current,Phone,1,Higher Risk
+P10020,Home,AZ,1376.47,1,1,7,Past Due,Phone,1,Higher Risk
+P10021,Renters,CO,1287.9,39,0,5,Current,Phone,1,Higher Risk
+P10022,Renters,FL,1275.89,91,1,2,Current,Email,0,Higher Risk
+P10023,Life,NC,1841.92,69,1,4,Current,Phone,1,Standard
+P10024,Home,NC,960.61,22,1,0,Current,Phone,0,Higher Risk
+P10025,Life,AZ,1189.02,31,0,0,Current,Online,0,Higher Risk
+P10026,Auto,NC,1208.73,10,0,7,Current,Email,1,Higher Risk
+P10027,Life,CO,1138.9,16,0,7,Current,Online,0,Higher Risk
+P10028,Life,NC,780.75,118,1,5,Current,Phone,0,Higher Risk
+P10029,Auto,AZ,1210.87,50,0,7,Current,Phone,1,Higher Risk
+P10030,Life,NC,1700.44,57,1,4,Current,Online,1,Standard
+P10031,Auto,AZ,1658.39,63,0,3,Current,Email,1,Standard
+P10032,Home,TX,2068.13,119,0,2,Current,Phone,1,Standard
+P10033,Auto,NC,1295.26,3,0,1,Current,Agent,0,Higher Risk
+P10034,Life,FL,730.4,106,0,6,Current,Online,0,Higher Risk
+P10035,Renters,AZ,1757.92,116,0,7,Current,Email,1,Higher Risk
+P10036,Home,FL,1993.78,65,0,6,Current,Online,0,Higher Risk
+P10037,Life,CO,1569.45,17,1,3,Current,Phone,0,Higher Risk
+P10038,Auto,AZ,1754.94,61,0,7,Current,Phone,1,Higher Risk
+P10039,Home,TX,1483.4,34,0,4,Current,Online,1,Standard
+P10040,Renters,TX,964.17,95,0,2,Past Due,Email,1,Higher Risk
+P10041,Auto,NC,974.5,3,0,3,Current,Email,1,Standard
+P10042,Renters,AZ,2091.21,92,0,1,Current,Online,1,Standard
+P10043,Renters,CO,1232.86,54,0,5,Current,Phone,1,Higher Risk
+P10044,Life,NC,1271.56,79,0,5,Current,Online,1,Higher Risk
+P10045,Life,NC,756.85,11,0,7,Current,Email,1,Higher Risk
+P10046,Auto,AZ,666.33,33,0,4,Current,Phone,0,Higher Risk
+P10047,Auto,FL,2836.41,25,0,4,Current,Email,1,Standard
+P10048,Auto,CO,1391.58,63,0,0,Current,Phone,1,Standard
+P10049,Renters,NC,1083.8,74,0,3,Current,Phone,1,Standard
+P10050,Home,CO,986.33,1,2,1,Current,Agent,1,Higher Risk
+P10051,Home,TX,2532.54,100,0,4,Current,Phone,1,Standard
+P10052,Renters,CO,917.84,116,0,3,Current,Phone,1,Standard
+P10053,Home,CO,909.6,93,0,1,Current,Phone,0,Higher Risk
+P10054,Renters,CO,866.73,68,0,3,Current,Phone,0,Higher Risk
+P10055,Life,FL,1955.94,28,0,4,Current,Online,1,Standard
+P10056,Renters,NC,970.84,42,0,3,Past Due,Agent,1,Higher Risk
+P10057,Home,TX,998.32,117,0,7,Current,Email,0,Higher Risk
+P10058,Home,CO,825.76,100,0,1,Current,Online,1,Standard
+P10059,Life,FL,1550.2,59,0,4,Current,Online,1,Standard
+P10060,Home,AZ,2873.68,83,0,2,Current,Agent,1,Standard
+P10061,Home,FL,250.0,2,0,6,Past Due,Email,1,Higher Risk
+P10062,Home,TX,1285.66,100,0,5,Current,Online,1,Higher Risk
+P10063,Renters,TX,1094.18,17,0,1,Current,Email,1,Standard
+P10064,Auto,AZ,1508.18,117,0,6,Current,Online,1,Higher Risk
+P10065,Auto,TX,1471.41,67,0,7,Current,Agent,1,Higher Risk
+P10066,Home,TX,2007.37,84,0,7,Current,Phone,1,Higher Risk
+P10067,Auto,AZ,1683.28,93,1,1,Current,Agent,1,Standard
+P10068,Auto,TX,1692.52,15,0,2,Current,Email,1,Standard
+P10069,Renters,AZ,2210.51,104,1,4,Current,Phone,0,Higher Risk
+P10070,Home,FL,1462.66,79,2,3,Current,Email,1,Higher Risk
+P10071,Renters,CO,1060.04,3,0,6,Current,Email,1,Higher Risk
+P10072,Auto,CO,2370.21,63,0,7,Current,Phone,0,Higher Risk
+P10073,Home,NC,1191.62,24,0,1,Current,Email,0,Higher Risk
+P10074,Auto,FL,2275.21,17,0,4,Past Due,Agent,1,Higher Risk
+P10075,Life,CO,1971.2,3,0,2,Current,Online,0,Higher Risk
+P10076,Home,NC,1327.83,60,0,7,Current,Email,1,Higher Risk
+P10077,Life,CO,371.39,103,0,3,Past Due,Online,0,Higher Risk
+P10078,Home,NC,1538.03,19,0,2,Current,Email,1,Standard
+P10079,Home,AZ,1971.58,27,0,0,Current,Phone,1,Standard
+P10080,Auto,AZ,1076.41,32,0,4,Current,Agent,1,Standard
+P10081,Home,AZ,1982.8,99,1,2,Current,Email,0,Higher Risk
+P10082,Auto,TX,1255.09,63,0,5,Current,Online,1,Higher Risk
+P10083,Auto,CO,1243.79,54,0,6,Past Due,Phone,0,Higher Risk
+P10084,Auto,FL,1747.71,38,0,2,Current,Agent,1,Standard
+P10085,Auto,AZ,918.48,92,0,3,Current,Phone,1,Standard
+P10086,Auto,FL,1503.97,90,1,1,Current,Online,1,Standard
+P10087,Home,TX,1526.32,31,0,3,Current,Online,1,Standard
+P10088,Auto,AZ,1809.08,42,0,2,Current,Online,1,Standard
+P10089,Home,NC,957.47,15,0,0,Current,Agent,1,Standard
+P10090,Auto,AZ,3162.22,36,2,5,Current,Online,0,Higher Risk
+P10091,Home,AZ,1868.91,23,0,6,Current,Phone,0,Higher Risk
+P10092,Renters,FL,959.26,27,0,0,Current,Phone,1,Standard
+P10093,Home,AZ,1382.01,68,0,5,Current,Phone,0,Higher Risk
+P10094,Home,CO,1569.08,11,0,0,Current,Online,1,Standard
+P10095,Auto,NC,1609.53,23,0,5,Pending Review,Phone,1,Higher Risk
+P10096,Renters,AZ,723.72,84,2,7,Current,Phone,1,Higher Risk
+P10097,Renters,CO,1600.57,12,1,7,Current,Phone,1,Higher Risk
+P10098,Life,CO,1614.65,106,0,0,Pending Review,Online,0,Higher Risk
+P10099,Renters,CO,1453.0,17,0,1,Past Due,Email,1,Higher Risk
+P10100,Auto,CO,834.32,111,1,7,Current,Phone,1,Higher Risk
+P10101,Home,NC,1323.42,67,0,4,Current,Online,1,Standard
+P10102,Home,TX,1759.95,13,0,4,Past Due,Phone,1,Higher Risk
+P10103,Renters,NC,1780.47,63,0,4,Current,Agent,1,Standard
+P10104,Auto,CO,940.31,50,0,3,Current,Phone,1,Standard
+P10105,Home,CO,757.65,36,0,5,Current,Online,1,Higher Risk
+P10106,Home,CO,1443.02,78,2,4,Current,Email,0,Higher Risk
+P10107,Auto,FL,1559.53,15,0,4,Current,Online,1,Standard
+P10108,Home,FL,401.65,77,0,3,Current,Phone,1,Standard
+P10109,Life,TX,2197.44,95,0,6,Current,Phone,1,Higher Risk
+P10110,Auto,TX,1251.49,84,0,4,Current,Email,1,Standard
+P10111,Renters,AZ,563.6,16,0,5,Current,Email,1,Higher Risk
+P10112,Home,FL,1452.79,66,0,7,Current,Phone,1,Higher Risk
+P10113,Renters,CO,1230.65,92,1,5,Current,Phone,1,Higher Risk
+P10114,Auto,FL,1100.08,109,0,0,Current,Online,1,Standard
+P10115,Home,AZ,919.36,120,0,5,Past Due,Phone,1,Higher Risk
+P10116,Home,CO,1034.38,10,1,6,Current,Phone,1,Higher Risk
+P10117,Auto,FL,707.27,55,0,4,Current,Email,1,Standard
+P10118,Auto,TX,266.21,16,0,1,Current,Online,1,Standard
+P10119,Renters,CO,2001.82,20,1,6,Current,Email,1,Higher Risk
+P10120,Auto,TX,2291.0,17,0,7,Current,Phone,0,Higher Risk
+P10121,Home,CO,1877.84,73,0,2,Current,Agent,1,Standard
+P10122,Renters,CO,1461.1,39,2,0,Current,Agent,1,Higher Risk
+P10123,Home,FL,1544.06,115,1,6,Current,Online,1,Higher Risk
+P10124,Auto,FL,2227.6,56,0,3,Current,Phone,1,Standard
+P10125,Renters,NC,2413.63,107,0,3,Current,Agent,1,Standard
+P10126,Home,CO,1409.63,11,0,5,Current,Online,1,Higher Risk
+P10127,Auto,AZ,1666.18,91,0,3,Current,Email,1,Standard
+P10128,Auto,FL,1215.41,116,0,6,Current,Email,1,Higher Risk
+P10129,Home,TX,1282.18,79,0,2,Current,Online,1,Standard
+P10130,Auto,CO,1871.58,38,1,6,Pending Review,Agent,0,Higher Risk
+P10131,Renters,CO,725.53,29,0,2,Current,Phone,1,Standard
+P10132,Auto,FL,1647.65,100,3,5,Current,Phone,1,Higher Risk
+P10133,Renters,AZ,1242.55,36,1,1,Current,Phone,1,Standard
+P10134,Home,FL,1089.13,17,0,3,Current,Online,1,Standard
+P10135,Auto,TX,2022.79,119,0,2,Current,Online,1,Standard
+P10136,Home,FL,1446.84,42,1,1,Current,Email,1,Standard
+P10137,Auto,FL,2361.96,69,0,3,Current,Email,0,Higher Risk
+P10138,Home,TX,1193.11,71,0,0,Current,Online,1,Standard
+P10139,Auto,CO,1673.76,115,0,6,Current,Online,1,Higher Risk
+P10140,Life,NC,1515.22,45,0,1,Current,Email,1,Standard
+P10141,Home,CO,1811.94,102,1,2,Current,Email,1,Standard
+P10142,Home,NC,1123.54,97,0,0,Current,Agent,1,Standard
+P10143,Home,NC,2449.19,9,0,5,Current,Email,1,Higher Risk
+P10144,Auto,AZ,553.75,56,0,0,Current,Phone,0,Higher Risk
+P10145,Life,AZ,1552.4,64,0,4,Current,Email,1,Standard
+P10146,Auto,FL,1448.98,82,0,3,Current,Phone,1,Standard
+P10147,Auto,NC,1410.4,73,0,4,Current,Online,1,Standard
+P10148,Renters,CO,1942.35,57,1,4,Current,Phone,1,Standard
+P10149,Auto,AZ,1657.83,22,0,5,Pending Review,Phone,1,Higher Risk
+P10150,Renters,AZ,1808.39,33,0,6,Current,Email,1,Higher Risk
+P10151,Auto,FL,1350.58,56,0,3,Current,Online,1,Standard
+P10152,Auto,AZ,1974.22,38,1,0,Current,Email,0,Higher Risk
+P10153,Auto,AZ,1415.53,83,0,5,Current,Agent,1,Higher Risk
+P10154,Home,TX,1172.31,81,0,1,Current,Phone,1,Standard
+P10155,Auto,TX,2021.02,62,0,1,Current,Email,1,Standard
+P10156,Auto,FL,1744.7,22,1,2,Current,Email,1,Standard
+P10157,Auto,FL,1241.65,98,0,2,Past Due,Agent,0,Higher Risk
+P10158,Auto,AZ,1336.27,95,0,0,Current,Phone,1,Standard
+P10159,Renters,TX,1361.63,99,0,5,Current,Phone,1,Higher Risk
+P10160,Auto,AZ,344.37,75,0,5,Current,Phone,0,Higher Risk
+P10161,Renters,TX,819.18,30,0,0,Current,Email,1,Standard
+P10162,Home,NC,1528.0,62,0,1,Current,Email,0,Higher Risk
+P10163,Renters,NC,2420.26,67,0,7,Current,Phone,1,Higher Risk
+P10164,Home,FL,2472.57,79,0,1,Current,Online,1,Standard
+P10165,Home,TX,1839.18,67,0,2,Pending Review,Phone,1,Higher Risk
+P10166,Renters,FL,1844.16,82,0,2,Past Due,Agent,1,Higher Risk
+P10167,Home,FL,1578.48,27,1,3,Current,Phone,1,Standard
+P10168,Auto,TX,1250.65,99,1,0,Current,Online,1,Standard
+P10169,Life,CO,1253.87,116,0,3,Current,Email,0,Higher Risk
+P10170,Life,FL,2103.06,108,1,1,Current,Email,1,Standard
+P10171,Home,FL,1077.14,68,0,3,Current,Email,1,Standard
+P10172,Auto,CO,1604.58,5,0,4,Current,Agent,1,Standard
+P10173,Renters,AZ,2209.76,117,1,0,Current,Email,0,Higher Risk
+P10174,Home,TX,1524.99,1,0,7,Current,Online,1,Higher Risk
+P10175,Life,FL,1277.39,26,0,7,Current,Online,0,Higher Risk
+P10176,Home,CO,1467.38,77,0,7,Past Due,Phone,1,Higher Risk
+P10177,Home,NC,1364.67,115,0,6,Current,Phone,1,Higher Risk
+P10178,Life,FL,1221.58,62,1,4,Pending Review,Email,0,Higher Risk
+P10179,Life,NC,1719.01,95,2,2,Pending Review,Phone,1,Higher Risk
+P10180,Life,CO,931.18,86,0,3,Current,Agent,0,Higher Risk
+P10181,Home,CO,1213.33,108,0,2,Current,Phone,1,Standard
+P10182,Renters,TX,344.62,44,0,4,Current,Agent,1,Standard
+P10183,Life,FL,1966.42,102,1,0,Current,Phone,1,Standard
+P10184,Auto,CO,1323.05,81,0,7,Current,Phone,0,Higher Risk
+P10185,Home,NC,1777.11,1,1,6,Current,Email,0,Higher Risk
+P10186,Auto,TX,250.0,95,0,3,Current,Agent,1,Standard
+P10187,Auto,FL,571.8,110,0,1,Current,Phone,0,Higher Risk
+P10188,Home,AZ,1669.99,18,0,7,Past Due,Online,0,Higher Risk
+P10189,Renters,FL,1094.83,29,2,2,Current,Email,0,Higher Risk
+P10190,Auto,CO,1450.87,25,0,4,Current,Agent,0,Higher Risk
+P10191,Renters,TX,1126.53,113,0,4,Current,Email,1,Standard
+P10192,Life,FL,1827.61,13,0,5,Current,Email,1,Higher Risk
+P10193,Auto,NC,1517.4,120,0,7,Pending Review,Phone,1,Higher Risk
+P10194,Home,CO,1388.65,16,0,5,Current,Email,1,Higher Risk
+P10195,Renters,AZ,1237.67,36,0,0,Pending Review,Phone,0,Higher Risk
+P10196,Home,FL,1741.25,84,0,4,Current,Phone,1,Standard
+P10197,Life,NC,789.47,36,0,5,Current,Online,1,Higher Risk
+P10198,Renters,NC,250.0,64,0,1,Current,Phone,1,Standard
+P10199,Renters,CO,1312.02,113,2,7,Current,Phone,0,Higher Risk
+P10200,Home,NC,1608.68,86,1,0,Current,Phone,1,Standard
+P10201,Home,NC,979.61,45,0,6,Current,Online,1,Higher Risk
+P10202,Auto,TX,1472.8,70,1,6,Current,Email,1,Higher Risk
+P10203,Auto,FL,1742.16,104,1,0,Current,Agent,0,Higher Risk
+P10204,Renters,FL,1090.83,78,0,6,Current,Agent,1,Higher Risk
+P10205,Auto,AZ,1036.47,103,0,7,Current,Phone,1,Higher Risk
+P10206,Auto,CO,707.52,40,0,4,Current,Email,1,Standard
+P10207,Auto,FL,1107.66,66,0,4,Pending Review,Agent,0,Higher Risk
+P10208,Home,CO,956.32,47,0,5,Current,Phone,0,Higher Risk
+P10209,Home,FL,1275.83,41,1,6,Current,Phone,1,Higher Risk
+P10210,Auto,NC,1727.22,56,1,2,Past Due,Phone,1,Higher Risk
+P10211,Auto,FL,2485.62,15,0,2,Current,Phone,0,Higher Risk
+P10212,Auto,FL,565.9,92,0,3,Past Due,Phone,1,Higher Risk
+P10213,Renters,AZ,3044.08,80,0,2,Pending Review,Email,1,Higher Risk
+P10214,Renters,CO,1851.84,93,0,3,Current,Phone,1,Standard
+P10215,Home,FL,1180.97,5,1,4,Current,Agent,1,Standard
+P10216,Auto,FL,1505.11,103,0,2,Current,Online,1,Standard
+P10217,Auto,TX,1609.39,25,0,4,Current,Phone,1,Standard
+P10218,Home,NC,1097.15,36,0,6,Current,Online,1,Higher Risk
+P10219,Auto,NC,1621.74,46,0,3,Current,Email,1,Standard
+P10220,Home,TX,1496.19,75,0,1,Pending Review,Phone,1,Higher Risk
+P10221,Life,AZ,951.79,37,0,3,Past Due,Online,1,Higher Risk
+P10222,Life,FL,728.11,60,1,0,Current,Email,1,Standard
+P10223,Life,CO,908.28,47,0,4,Current,Phone,1,Standard
+P10224,Home,CO,916.39,4,0,7,Current,Agent,1,Higher Risk
+P10225,Home,TX,1158.95,28,0,6,Current,Agent,1,Higher Risk
+P10226,Home,TX,1636.56,28,0,5,Current,Agent,0,Higher Risk
+P10227,Renters,FL,936.63,25,0,1,Current,Email,1,Standard
+P10228,Life,TX,1251.57,4,2,5,Current,Phone,1,Higher Risk
+P10229,Renters,CO,1297.94,71,1,2,Current,Phone,1,Standard
+P10230,Renters,NC,1199.47,18,0,6,Current,Online,0,Higher Risk
+P10231,Renters,CO,2175.63,68,0,2,Current,Online,1,Standard
+P10232,Auto,FL,950.53,54,1,0,Current,Phone,1,Standard
+P10233,Auto,NC,816.25,87,0,2,Current,Phone,0,Higher Risk
+P10234,Home,NC,2176.43,16,0,6,Pending Review,Online,1,Higher Risk
+P10235,Home,NC,2025.64,69,0,1,Current,Online,1,Standard
+P10236,Renters,FL,1631.18,78,0,2,Current,Online,1,Standard
+P10237,Auto,TX,1518.55,27,0,0,Current,Online,1,Standard
+P10238,Life,NC,1059.92,12,0,7,Current,Online,1,Higher Risk
+P10239,Renters,FL,349.48,48,0,3,Current,Email,1,Standard
+P10240,Auto,AZ,250.0,84,1,1,Past Due,Email,0,Higher Risk
+P10241,Life,TX,1701.34,54,0,3,Current,Agent,1,Standard
+P10242,Renters,AZ,1011.63,44,0,1,Current,Phone,1,Standard
+P10243,Home,FL,1414.78,95,1,3,Current,Phone,0,Higher Risk
+P10244,Auto,CO,1147.15,111,0,0,Pending Review,Phone,1,Higher Risk
+P10245,Auto,CO,1860.27,29,0,5,Pending Review,Email,1,Higher Risk
+P10246,Home,NC,1299.76,111,0,2,Past Due,Email,0,Higher Risk
+P10247,Home,FL,1643.29,106,0,0,Current,Phone,0,Higher Risk
+P10248,Life,FL,1585.11,119,0,0,Current,Email,1,Standard
+P10249,Life,NC,1896.76,8,1,1,Current,Phone,1,Standard
+P10250,Auto,AZ,775.96,47,0,6,Current,Agent,0,Higher Risk
